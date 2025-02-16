@@ -1,0 +1,10 @@
+# config/packages.yml
+packages:
+  - name: visual-studio-code
+    cask: true
+  - name: ansible
+    cask: false
+  - name: terraform
+    cask: false
+  - name: azure-cli
+    cask: false

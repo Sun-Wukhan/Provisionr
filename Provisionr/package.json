@@ -1,0 +1,17 @@
+{
+  "name": "provisionr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
