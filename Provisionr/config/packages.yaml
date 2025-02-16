@@ -8,3 +8,157 @@ packages:
     cask: false
   - name: azure-cli
     cask: false
+  - name: awscli
+    cask: false
+  - name: google-cloud-sdk
+    cask: false
+  - name: kubectl
+    cask: false
+  - name: helm
+    cask: false
+  - name: docker
+    cask: false
+  - name: podman
+    cask: false
+  - name: minikube
+    cask: false
+  - name: kind
+    cask: false
+  - name: packer
+    cask: false
+  - name: vault
+    cask: false
+  - name: consul
+    cask: false
+  - name: nomad
+    cask: false
+  - name: jq
+    cask: false
+  - name: yq
+    cask: false
+  - name: wget
+    cask: false
+  - name: curl
+    cask: false
+  - name: htop
+    cask: false
+  - name: btop
+    cask: false
+  - name: neofetch
+    cask: false
+  - name: tmux
+    cask: false
+  - name: zsh
+    cask: false
+  - name: oh-my-zsh
+    cask: false
+  - name: powerlevel10k
+    cask: false
+  - name: python
+    cask: false
+  - name: go
+    cask: false
+  - name: node
+    cask: false
+  - name: nvm
+    cask: false
+  - name: pipx
+    cask: false
+  - name: git
+    cask: false
+  - name: gh
+    cask: false
+  - name: openvpn
+    cask: false
+  - name: wireguard-tools
+    cask: false
+  - name: iperf3
+    cask: false
+  - name: speedtest-cli
+    cask: false
+  - name: netcat
+    cask: false
+  - name: socat
+    cask: false
+  - name: nmap
+    cask: false
+  - name: tcpdump
+    cask: false
+  - name: ngrok
+    cask: false
+  - name: redis
+    cask: false
+  - name: postgresql
+    cask: false
+  - name: mysql
+    cask: false
+  - name: mongodb-community
+    cask: false
+  - name: rabbitmq
+    cask: false
+  - name: kafka
+    cask: false
+  - name: promtail
+    cask: false
+  - name: loki
+    cask: false
+  - name: promtool
+    cask: false
+  - name: grafana
+    cask: false
+  - name: prometheus
+    cask: false
+  - name: telegraf
+    cask: false
+  - name: elasticsearch
+    cask: false
+  - name: logstash
+    cask: false
+  - name: filebeat
+    cask: false
+  - name: metricbeat
+    cask: false
+  - name: azure-functions-core-tools
+    cask: false
+  - name: argocd
+    cask: false
+  - name: k9s
+    cask: false
+  - name: stern
+    cask: false
+  - name: trivy
+    cask: false
+  - name: tfsec
+    cask: false
+  - name: checkov
+    cask: false
+  - name: pre-commit
+    cask: false
+  - name: bat
+    cask: false
+  - name: fzf
+    cask: false
+  - name: ripgrep
+    cask: false
+  - name: fd
+    cask: false
+  - name: exa
+    cask: false
+  - name: neovim
+    cask: false
+  - name: lazygit
+    cask: false
+  - name: krew
+    cask: false
+  - name: dive
+    cask: false
+  - name: mitmproxy
+    cask: false
+  - name: aws-vault
+    cask: false
+  - name: ssm-session-manager-plugin
+    cask: false
+  - name: session-manager-plugin
+    cask: false
+  - name: warp
+    cask: true
